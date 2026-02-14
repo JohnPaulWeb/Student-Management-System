@@ -1,0 +1,14 @@
+C:\Users\John Paul\source\repos\Excel\bin\Debug\Excel.exe.config
+C:\Users\John Paul\source\repos\Excel\bin\Debug\Excel.exe
+C:\Users\John Paul\source\repos\Excel\bin\Debug\Excel.pdb
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.exe
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.pdb
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.Main.resources
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.Dashboard.resources
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.Login.resources
+C:\Users\John Paul\source\repos\Excel\obj\Debug\Excel.RankingStudent.resources
